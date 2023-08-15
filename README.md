@@ -1,1 +1,1 @@
-This module is fro creating the azure storage account
+This module is fro creating the azure storage account `- Version 2.0.0`
